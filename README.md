@@ -15,4 +15,3 @@ Project Schedule:
 3. Develop mf application for body, header and footer
 4. Implementation of redux global state management
 5. Implementation of new version available
-6. 
