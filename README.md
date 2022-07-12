@@ -12,6 +12,10 @@ TODOs:
 Project Schedule:
 1. Training
 2. Develop mf base application
-3. Develop mf application for body, header and footer
-4. Implementation of redux global state management
-5. Implementation of new version available
+3. Develop mf application for body, status notification, header and footer
+4.  - header will receive object with links to be shown
+5.  - body will receive object with logged in user
+6.  - status notification will receive object with notifications to be shown
+7. 
+8. Implementation of redux global state management
+9. Implementation of new version available
