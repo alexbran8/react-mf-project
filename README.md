@@ -7,7 +7,7 @@ TODOs:
 3. Present comparison between agile/scrum and classic waterfall pm concepts - ALEX - 19/07/2022
 4. Prepare development reproduction of mf projects on cloud - ALEX - 26/07/2022
 5. Check if mf can be pwa? - ALL - 26/07/2022
-
+6. Chec if nextjs can be combined with react.js mf - ALL - 02/08/2022
 
 Project Schedule:
 1. Training
