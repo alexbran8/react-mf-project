@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux'
 
-const postsReducer = (state = [], action) => {
+const postsReducer = (state = [123], action) => {
     switch (action.type) {
         case "ADD_POST":
             return [...state, { text: action.payload.text, id: action.payload.id }]
